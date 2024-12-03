@@ -19,7 +19,7 @@
         @csrf
         <div class="flex flex-col gap-5">
           <p class="text-[22px] font-bold">
-            New Account
+            New Accounts
           </p>
           <!-- Full Name -->
           <div class="flex flex-col gap-2.5">
